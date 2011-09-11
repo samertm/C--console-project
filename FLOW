@@ -1,0 +1,5 @@
+git clone git@github.com:nosefrog/C--console-project.git
+git add path/to/new_file
+git commit -a
+git pull
+git push
